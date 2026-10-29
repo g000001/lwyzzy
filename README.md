@@ -1,4 +1,4 @@
-# lwzzy
+# lwyzzy
 
 LispWorksでxyzzyの部分を再利用する試み
 
